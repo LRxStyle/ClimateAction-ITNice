@@ -9,3 +9,6 @@ This notebook is designed to identifying the countries and sectors that contribu
   - Dont forget to connect runtime
   - Connect/Mount to your google drive so the printed image and dataset will be saved on your google drive
 - Run all
+- Then there will be 2 outputs :
+  - The image by default will printed as (time_series_plot.jpeg)
+  - The dataframe by default will printed as (df_negara_berkontribusi.csv)
