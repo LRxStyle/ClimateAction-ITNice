@@ -1,4 +1,4 @@
-# climate-action-ITENAS
+# Climate Action - ITNice
 This notebook is designed to identifying the countries and sectors that contribute the most to emissions is crucial for developing effective solutions to reduce them. By doing so, we can address climate change without negatively impacting economic growth.
 
 # How to run
